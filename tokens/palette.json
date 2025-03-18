@@ -12,47 +12,47 @@
       "mono": {
         "50": {
           "$type": "color",
-          "$value": "#f7f8f8"
+          "$value": "#f8f8f8"
         },
         "100": {
           "$type": "color",
-          "$value": "#EEEEF0"
+          "$value": "#f1efef"
         },
         "200": {
           "$type": "color",
-          "$value": "#d8dbdf"
+          "$value": "#e5e3e3"
         },
         "300": {
           "$type": "color",
-          "$value": "#b6bac3"
+          "$value": "#d3cece"
         },
         "400": {
           "$type": "color",
-          "$value": "#8f96a1"
+          "$value": "#b8b1b1"
         },
         "500": {
           "$type": "color",
-          "$value": "#717886"
+          "$value": "#a29a9a"
         },
         "600": {
           "$type": "color",
-          "$value": "#5b616e"
+          "$value": "#857d7d"
         },
         "700": {
           "$type": "color",
-          "$value": "#4a4e5a"
+          "$value": "#6e6767"
         },
         "800": {
           "$type": "color",
-          "$value": "#40444c"
+          "$value": "#5d5757"
         },
         "900": {
           "$type": "color",
-          "$value": "#383a42"
+          "$value": "#504c4c"
         },
         "950": {
           "$type": "color",
-          "$value": "#18191C"
+          "$value": "#292626"
         }
       },
       "negative": {
@@ -196,47 +196,47 @@
       "accent": {
         "50": {
           "$type": "color",
-          "$value": "#e9f5ff"
+          "$value": "#fff2fd"
         },
         "100": {
           "$type": "color",
-          "$value": "#d7ecff"
+          "$value": "#ffe4fc"
         },
         "200": {
           "$type": "color",
-          "$value": "#b8daff"
+          "$value": "#ffc8f7"
         },
         "300": {
           "$type": "color",
-          "$value": "#8dc0ff"
+          "$value": "#ff9ded"
         },
         "400": {
           "$type": "color",
-          "$value": "#6098ff"
+          "$value": "#ff63e1"
         },
         "500": {
           "$type": "color",
-          "$value": "#3c71ff"
+          "$value": "#ff29dd"
         },
         "600": {
           "$type": "color",
-          "$value": "#1a44ff"
+          "$value": "#f108d4"
         },
         "700": {
           "$type": "color",
-          "$value": "#1036F2"
+          "$value": "#d303b4"
         },
         "800": {
           "$type": "color",
-          "$value": "#1133ca"
+          "$value": "#a30589"
         },
         "900": {
           "$type": "color",
-          "$value": "#173298"
+          "$value": "#850a6f"
         },
         "950": {
           "$type": "color",
-          "$value": "#0e1c58"
+          "$value": "#5b004b"
         }
       }
     }
