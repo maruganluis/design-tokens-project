@@ -1,18 +1,39 @@
+import StyleDictionary from "style-dictionary";
+import { register } from "@tokens-studio/sd-transforms";
+import ThemesLoader from "sd-themes-loader";
+import { platform } from "os";
+
+register(StyleDictionary, {
+    withSDBuiltins: false,
+});
+
+const loader = ThemesLoader(StyleDictionary);
+
 async function run() {
-    const name = "Luis";
-    const lastname = "Marugan";
+    const themes = await loader.load("/tokens");
 
-    const obj = {
-        name: "hola",
-        age: 33,
-        folder: {
-            clave: "valor",
-        },
+    const globalTheme = themes.getThemeByName("global");
 
-        list: [1,2,3,4, "hola"],
-    }
+    const config = {
+        platforms: {
+            web: {
+                files: [
+                    {
+                        destination: "app/build/global/variables.css",
+                        format: "css/variables",
+                    }
+                ], 
 
-    console.log(name, lastname);
+                transforms: [
+                    "name/kebab", 
+                    "ts/resolveMath",
+                    "size/pxToRem",
+                ]
+            }
+        }
+    };
+
+    globalTheme.addConfig(config).build();
 }
 
 run();
