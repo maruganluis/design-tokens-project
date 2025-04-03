@@ -2,11 +2,11 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Aprende a diseñar e implementar Design Tokens"
+      "$value": "Aprende a aguantar a tu CEO"
     },
     "subtitle": {
       "$type": "text",
-      "$value": "La mejor formación en español para que domines el diseño, distribución y aplicación de la metodología de Design Tokens. Iniciamos la 2ª edición el 10 de Marzo ¡No te quedes sin plaza!"
+      "$value": "Respira hondo, conecta con un profe de yoga, o bébete un whisky. Aquí aprenderás a sobrevivir a frases como \"Quiero efecto wow\"."
     },
     "button": {
       "$type": "text",
@@ -16,16 +16,16 @@
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Por qué Design Tokens"
+      "$value": "Por qué Flow App"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Los Design Tokens se han establecido como la metodología por excelencia para comunicar las decisiones de diseño entre marcas, equipos y tecnologías. Su potencial se basa en la idea de crear una fuente de la verdad, una guía común desde la que se distribuyan todas las decisiones."
+        "$value": "Flow App existe porque tu CEO va a seguir diciendo “pongámosle magia” y tú necesitas una excusa con base tecnológica para decir:\n“Eso no está en los tokens, jefe.”"
       },
       "p2": {
         "$type": "text",
-        "$value": "Si te interesa optimizar los tiempos de desarrollo, la comunicación entre equipos o los sistemas de diseño en empresas en escala, este curso es para tí."
+        "$value": "Es una herramienta para que tu salud mental no dependa de si alguien cambió el Figma sin avisar.\nSi quieres sobrevivir en un entorno donde “urgente” significa “me lo acabo de inventar”, este curso es tu salvavidas."
       }
     },
     "button": {
@@ -42,13 +42,13 @@
   "logos": {
     "title": {
       "$type": "text",
-      "$value": "Las grandes empresas ya trabajan con Design Tokens"
+      "$value": "Las grandes empresas ya no sufren en silencio"
     }
   },
   "sessions": {
     "title": {
       "$type": "text",
-      "$value": "Sesiones"
+      "$value": "Frases Célebres"
     },
     "tag": {
       "one": {
@@ -80,7 +80,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "La fuente de la verdad"
+          "$value": "\"Mi sobrino lo hace en 5 minutos\""
         },
         "description": {
           "$type": "text",
@@ -91,10 +91,6 @@
         "caption": {
           "$type": "text",
           "$value": "SESIÓN 2 - MARTES 11 DE MARZO"
-        },
-        "title": {
-          "$type": "text",
-          "$value": "Arquitectura de Tokens"
         },
         "description": {
           "$type": "text",
@@ -108,7 +104,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Sincronización con Github"
+          "$value": "\"Haz el logo más grande\""
         },
         "description": {
           "$type": "text",
@@ -122,7 +118,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Prácticas en Figma y Token Studio"
+          "$value": "\"La IA lo habría hecho mejor\""
         },
         "description": {
           "$type": "text",
@@ -136,7 +132,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Style Dictionary"
+          "$value": "\"Quita, que tu no sabes\""
         },
         "description": {
           "$type": "text",
@@ -150,7 +146,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Transformadores"
+          "$value": "\"Le das un botón y te lo hace\""
         },
         "description": {
           "$type": "text",
@@ -164,7 +160,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Formatos"
+          "$value": "\"Tenemos futbolín y fruta gratis\""
         },
         "description": {
           "$type": "text",
@@ -178,7 +174,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Dark Mode"
+          "$value": "\"Es solo un pequeño cambio\""
         },
         "description": {
           "$type": "text",
@@ -192,7 +188,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Práctica de código"
+          "$value": "\"Lo quiero para ayer\""
         },
         "description": {
           "$type": "text",
@@ -206,7 +202,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Presentaciones"
+          "$value": "\"Me inspiré anoche y...\""
         },
         "description": {
           "$type": "text",
@@ -215,15 +211,19 @@
       }
     }
   },
+  "\"Haz el logo más grande\"": {
+    "$type": "text",
+    "$value": "Arquitectura de Tokens"
+  },
   "teachers": {
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Pablo Fernández Franco"
+        "$value": "Luis Marugán"
       },
       "position": {
         "$type": "text",
-        "$value": "Platform Team Lead en idealista"
+        "$value": "Soñador"
       }
     },
     "two": {
@@ -238,7 +238,7 @@
     },
     "title": {
       "$type": "text",
-      "$value": "Conoce a los profesores"
+      "$value": "Conoce al profesor"
     }
   },
   "pricing": {
@@ -254,7 +254,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Design Tokens en español"
+          "$value": "Flow App gratis"
         },
         "price": {
           "$type": "text",
@@ -276,7 +276,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Diseño e Implementación de Design Tokens"
+          "$value": "1 año de suscripción Premium"
         },
         "price-primary": {
           "$type": "text",
@@ -302,7 +302,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "¿Quieres que te ayudemos en tu proyecto?"
+          "$value": "¿Quieres que te ayudemos?"
         },
         "description": {
           "$type": "text",

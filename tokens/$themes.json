@@ -456,7 +456,6 @@
       "sessions.card.one.title": "8ad85fded0a4239a0748ace120e1534294fff5bc",
       "sessions.card.one.description": "9764374842879bf73f797372bb0bb7d31624b42e",
       "sessions.card.two.caption": "48887eb841a00cfdf5eb11ed7ce03ca3bf525f47",
-      "sessions.card.two.title": "dd29800a5a50ed4b153e3fe600d539218b5680c8",
       "sessions.card.two.description": "e94fc84b2b77ffd0e449b0bd1c00cdd85a578716",
       "sessions.card.three.caption": "3a0b7c3fae88b6e3592850e651b70920bfcc5e8f",
       "sessions.card.three.title": "f5d17329dcc78c2edf8954b94a4f804f220f12c9",
@@ -523,7 +522,8 @@
       "footer.link.linkedin": "f34dbd9206d6c6cedb52275b4ff7fb9b17644dcd",
       "footer.link.substack": "24c212e6d589c4f83a01d1355f532e2b7eb31829",
       "language.es": "1a0a33709635998305b17ae1b78a5fe25b2af2ef",
-      "language.en": "2d75dea6d56d7bae2661ec1e1fdb9e4a3ef7d608"
+      "language.en": "2d75dea6d56d7bae2661ec1e1fdb9e4a3ef7d608",
+      "\"Haz el logo más grande\"": "dd29800a5a50ed4b153e3fe600d539218b5680c8"
     },
     "$figmaCollectionId": "VariableCollectionId:2275:2364",
     "$figmaModeId": "2275:0"
@@ -556,7 +556,6 @@
       "sessions.card.one.title": "8ad85fded0a4239a0748ace120e1534294fff5bc",
       "sessions.card.one.description": "9764374842879bf73f797372bb0bb7d31624b42e",
       "sessions.card.two.caption": "48887eb841a00cfdf5eb11ed7ce03ca3bf525f47",
-      "sessions.card.two.title": "dd29800a5a50ed4b153e3fe600d539218b5680c8",
       "sessions.card.two.description": "e94fc84b2b77ffd0e449b0bd1c00cdd85a578716",
       "sessions.card.three.caption": "3a0b7c3fae88b6e3592850e651b70920bfcc5e8f",
       "sessions.card.three.title": "f5d17329dcc78c2edf8954b94a4f804f220f12c9",
@@ -623,7 +622,8 @@
       "footer.link.linkedin": "f34dbd9206d6c6cedb52275b4ff7fb9b17644dcd",
       "footer.link.substack": "24c212e6d589c4f83a01d1355f532e2b7eb31829",
       "language.es": "1a0a33709635998305b17ae1b78a5fe25b2af2ef",
-      "language.en": "2d75dea6d56d7bae2661ec1e1fdb9e4a3ef7d608"
+      "language.en": "2d75dea6d56d7bae2661ec1e1fdb9e4a3ef7d608",
+      "sessions.card.two.title": "f083ff121d24fa9e157bbd86182d508f9c204464"
     },
     "$figmaCollectionId": "VariableCollectionId:2275:2364",
     "$figmaModeId": "2275:1"
